@@ -18,6 +18,9 @@
 ![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=javafx&logoColor=FFFFFF)
 ![libGDX](https://img.shields.io/badge/libGDX-e74A45?style=for-the-badge&logo=libgdx&logoColor=FFFFFF)
 
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=FFFFFF)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
+
 <!--
 **Sigevio/sigevio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
