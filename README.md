@@ -8,7 +8,7 @@
 ![HTML](https://img.shields.io/badge/HTML-E34C26?style=for-the-badge&logo=html5&logoColor=FFFFFF)
 ![CSS](https://img.shields.io/badge/CSS-264dE4?style=for-the-badge&logo=css3&logoColor=FFFFFF)
 >
-> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sigevio&layout=compact&border_color=30363d&hide_title=true&text_color=f5f5f5&bg_color=ffffff00)](https://github.com/sigevio/github-readme-stats)
+> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sigevio&layout=compact&border_color=30363d&hide_title=true&text_color=888&bg_color=ffffff00)](https://github.com/sigevio/github-readme-stats)
 
 #### Tools
 > ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=000000)
