@@ -1,19 +1,17 @@
 ## Hi There! 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sigevio&layout=compact)](https://github.com/sigevio/github-readme-stats)
-
-<!--
 #### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=FFFFFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-00599C?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
 ![HTML](https://img.shields.io/badge/HTML-E34C26?style=for-the-badge&logo=html5&logoColor=FFFFFF)
 ![CSS](https://img.shields.io/badge/CSS-264dE4?style=for-the-badge&logo=css3&logoColor=FFFFFF)
--->
+>
+> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sigevio&layout=compact&hide_title=true&text_color=f5f5f5&bg_color=ffffff00)](https://github.com/sigevio/github-readme-stats)
 
 #### Tools
-![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=000000)
+> ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=000000)
 ![Next.js](https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&logo=next.js&logoColor=000000)
 ![Material UI](https://img.shields.io/badge/Material UI-2196F3?style=for-the-badge&logo=mui&logoColor=FFFFFF)
 ![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=FFFFFF)
