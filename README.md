@@ -1,7 +1,8 @@
-# Hi there! 👋
+## Hi There! 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sigevio&layout=compact)](https://github.com/sigevio/github-readme-stats)
 
+<!--
 #### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=FFFFFF)
@@ -9,6 +10,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-00599C?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
 ![HTML](https://img.shields.io/badge/HTML-E34C26?style=for-the-badge&logo=html5&logoColor=FFFFFF)
 ![CSS](https://img.shields.io/badge/CSS-264dE4?style=for-the-badge&logo=css3&logoColor=FFFFFF)
+-->
 
 #### Tools
 ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=000000)
